@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Study_MemoryMatch_React/static/css/main.9ba7a08b.chunk.css",
+    "main.js": "/Study_MemoryMatch_React/static/js/main.3a2ba1dc.chunk.js",
+    "main.js.map": "/Study_MemoryMatch_React/static/js/main.3a2ba1dc.chunk.js.map",
+    "runtime-main.js": "/Study_MemoryMatch_React/static/js/runtime-main.5bebf13a.js",
+    "runtime-main.js.map": "/Study_MemoryMatch_React/static/js/runtime-main.5bebf13a.js.map",
+    "static/js/2.2d46a0e1.chunk.js": "/Study_MemoryMatch_React/static/js/2.2d46a0e1.chunk.js",
+    "static/js/2.2d46a0e1.chunk.js.map": "/Study_MemoryMatch_React/static/js/2.2d46a0e1.chunk.js.map",
+    "static/js/3.928fe002.chunk.js": "/Study_MemoryMatch_React/static/js/3.928fe002.chunk.js",
+    "static/js/3.928fe002.chunk.js.map": "/Study_MemoryMatch_React/static/js/3.928fe002.chunk.js.map",
+    "index.html": "/Study_MemoryMatch_React/index.html",
+    "static/css/main.9ba7a08b.chunk.css.map": "/Study_MemoryMatch_React/static/css/main.9ba7a08b.chunk.css.map",
+    "static/js/2.2d46a0e1.chunk.js.LICENSE.txt": "/Study_MemoryMatch_React/static/js/2.2d46a0e1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5bebf13a.js",
+    "static/js/2.2d46a0e1.chunk.js",
+    "static/css/main.9ba7a08b.chunk.css",
+    "static/js/main.3a2ba1dc.chunk.js"
+  ]
+}
